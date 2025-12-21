@@ -20,106 +20,106 @@
             "type": "title",
             "key": "╭─ ",
             "format": "{user-name}@{host-name}",
-            "keyColor": "blue"
+            "keyColor": "#d3bbfd"
         },
         {
             "type": "os",
             "key": "├─ {icon}", // Just get your distro's logo off nerdfonts.com
-            "keyColor": "blue"
+            "keyColor": "#d3bbfd"
         },
         {
             "type": "kernel",
             "key": "├─ ",
-            "keyColor": "blue"
+            "keyColor": "#d3bbfd"
         },
         {
             "type": "packages",
             "key": "├─ 󰏖",
-            "keyColor": "blue"
+            "keyColor": "#d3bbfd"
         },
 	"break",
 
         {
             "type": "shell",
             "key": "├─ ",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "terminal",
             "key": "├─ ",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "terminalfont",
             "key": "├─ ",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "lm",
             "key": "├─ 󰧨",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "de",
             "key": "├─ ",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "wm",
             "key": "├─ ",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "theme",
             "key": "├─ 󰉼",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "icons",
             "key": "├─ 󰀻",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         {
             "type": "wallpaper",
             "key": "╰─ 󰸉",
-            "keyColor": "yellow"
+            "keyColor": "#f1b7c5"
         },
         "break",
 
         {
             "type": "host",
             "key": "╭─ 󰌢",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "cpu",
             "key": "├─ 󰻠",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "gpu",
             "key": "├─ 󰍛",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "disk",
             "key": "├─ ",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "memory",
             "key": "├─ 󰑭",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "swap",
             "key": "├─ 󰓡",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "display",
             "key": "╰─ 󰍹",
-            "keyColor": "green"
+            "keyColor": "#eadef8"
         },
         {
             "type": "brightness",
@@ -150,6 +150,9 @@
             "type": "sound",
             "key": "╰─ ",
             "keyColor": "green"
-        }
+        },
+	"break",
+	"break",
+	"colors"
     ]
 }
