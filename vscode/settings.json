@@ -1,0 +1,14 @@
+{
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.fontFamily": "'JetBrainsMonoNL Nerd Font Medium','霞鹜文楷 Medium'",
+    "files.autoSave": "afterDelay",
+    "files.autoGuessEncoding": true,
+    "editor.guides.bracketPairs": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "workbench.iconTheme": "catppuccin-frappe",
+    "workbench.editor.empty.hint": "hidden",
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "markdown-preview-enhanced.codeBlockTheme": "github-dark.css",
+    "markdown-preview-enhanced.revealjsTheme": "black.css"
+}
