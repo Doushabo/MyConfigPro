@@ -1,14 +1,54 @@
 {
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#05ef3c"
+    },
     "editor.unicodeHighlight.nonBasicASCII": false,
     "editor.fontFamily": "'JetBrainsMonoNL Nerd Font Medium','霞鹜文楷 Medium'",
     "files.autoSave": "afterDelay",
     "files.autoGuessEncoding": true,
     "editor.guides.bracketPairs": true,
     "workbench.editor.enablePreview": false,
-    "workbench.colorTheme": "Catppuccin Frappé",
     "workbench.iconTheme": "catppuccin-frappe",
     "workbench.editor.empty.hint": "hidden",
     "markdown-preview-enhanced.previewTheme": "github-dark.css",
     "markdown-preview-enhanced.codeBlockTheme": "github-dark.css",
-    "markdown-preview-enhanced.revealjsTheme": "black.css"
+    "markdown-preview-enhanced.revealjsTheme": "black.css",
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "window.newWindowProfile": "默认",
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": {
+                "id": "terminal-cmd"
+            }
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "icon": "terminal-git-bash",
+            "path": "D:\\Tools\\Git\\Git\\bin\\bash.exe",
+            "args": [
+                "--login",
+                "-i"
+            ]
+        },
+        "NuShell": {
+            "path": "C:\\Users\\SCP-079\\AppData\\Local\\Programs\\nu\\bin\\nu.exe",
+            "args": []
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "NuShell",
+    "chat.viewSessions.orientation": "stacked",
+    "hediet.vscode-drawio.resizeImages": null
 }
